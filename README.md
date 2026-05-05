@@ -49,3 +49,4 @@ This repository documents the end-to-end claims lifecycle in a typical insurance
 * Rule-based validation engine
 * AI-assisted fraud detection
 * API integration with third-party data sources
+* Predictive fraud scoring model
